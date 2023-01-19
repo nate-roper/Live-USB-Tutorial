@@ -18,7 +18,7 @@ For this step, use [Balena Etcher](https://www.balena.io/etcher).
 The BIOS (basic input/output system) allows the user to select which storage device containing an OS will be booted. To do this, restart the computer and hold the [setup key](https://www.wikihow.com/Enter-BIOS). 
 
 * Setup key may vary when using a PC
-* **Option** key will always take you to BIOS on Mac
+* **Option** key will always lead to BIOS on Mac
 
 ## Step 5: Boot the Live USB
 In the startup menu, choose the live USB drive.
